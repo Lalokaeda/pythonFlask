@@ -1,0 +1,1 @@
+ls -l /etc/ | python3 get_mean_size.py

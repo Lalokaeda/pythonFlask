@@ -1,0 +1,242 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.3  23188 10412 ?        Ss   21:55   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    21:55   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    21:55   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-netns]
+root          11  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I    21:55   0:00 [kworker/u8:0-ipv6_addrconf]
+root          13  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-mm_percpu_wq]
+root          14  0.0  0.0      0     0 ?        S    21:55   0:00 [ksoftirqd/0]
+root          15  0.0  0.0      0     0 ?        I    21:55   0:02 [rcu_preempt]
+root          16  0.0  0.0      0     0 ?        S    21:55   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          17  0.0  0.0      0     0 ?        S    21:55   0:00 [rcu_exp_gp_kthread_worker]
+root          18  0.0  0.0      0     0 ?        S    21:55   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    21:55   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    21:55   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    21:55   0:00 [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    21:55   0:00 [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    21:55   0:00 [migration/1]
+root          24  0.0  0.0      0     0 ?        S    21:55   0:00 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/1:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        I    21:55   0:01 [kworker/u9:0-loop1]
+root          29  0.0  0.0      0     0 ?        S    21:55   0:00 [kdevtmpfs]
+root          30  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-inet_frag_wq]
+root          31  0.0  0.0      0     0 ?        I    21:55   0:00 [rcu_tasks_kthread]
+root          32  0.0  0.0      0     0 ?        I    21:55   0:00 [rcu_tasks_rude_kthread]
+root          33  0.0  0.0      0     0 ?        I    21:55   0:00 [rcu_tasks_trace_kthread]
+root          34  0.0  0.0      0     0 ?        S    21:55   0:00 [kauditd]
+root          35  0.0  0.0      0     0 ?        S    21:55   0:00 [khungtaskd]
+root          36  0.0  0.0      0     0 ?        S    21:55   0:00 [oom_reaper]
+root          38  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-writeback]
+root          39  0.0  0.0      0     0 ?        I    21:55   0:00 [kworker/u9:2-flush-8:0]
+root          40  0.0  0.0      0     0 ?        S    21:55   0:02 [kcompactd0]
+root          41  0.0  0.0      0     0 ?        SN   21:55   0:00 [ksmd]
+root          42  0.0  0.0      0     0 ?        SN   21:55   0:00 [khugepaged]
+root          43  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-kblockd]
+root          44  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-blkcg_punt_bio]
+root          45  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-kintegrityd]
+root          46  0.0  0.0      0     0 ?        S    21:55   0:00 [irq/9-acpi]
+root          48  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-tpm_dev_wq]
+root          49  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-ata_sff]
+root          50  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-md]
+root          51  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-md_bitmap]
+root          52  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-edac-poller]
+root          53  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-devfreq_wq]
+root          54  0.0  0.0      0     0 ?        S    21:55   0:00 [watchdogd]
+root          55  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-quota_events_unbound]
+root          57  0.0  0.0      0     0 ?        I<   21:55   0:01 [kworker/1:1H-kblockd]
+root          58  0.2  0.0      0     0 ?        S    21:55   0:09 [kswapd0]
+root          59  0.0  0.0      0     0 ?        S    21:55   0:00 [ecryptfs-kthread]
+root          60  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-kthrotld]
+root          61  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-acpi_thermal_pm]
+root          63  0.0  0.0      0     0 ?        S    21:55   0:00 [scsi_eh_0]
+root          64  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-scsi_tmf_0]
+root          65  0.0  0.0      0     0 ?        S    21:55   0:00 [scsi_eh_1]
+root          66  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-scsi_tmf_1]
+root          70  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-mld]
+root          71  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-ipv6_addrconf]
+root          72  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-kstrp]
+root          73  0.0  0.0      0     0 ?        I    21:55   0:00 [kworker/u8:1-ipv6_addrconf]
+root          75  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/u11:0]
+root          76  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/u12:0]
+root          77  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/u13:0]
+root          88  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-charger_manager]
+root          89  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/0:1H-kblockd]
+root          90  0.0  0.0      0     0 ?        I    21:55   0:00 [kworker/0:2-events]
+root         140  0.0  0.0      0     0 ?        S    21:55   0:00 [scsi_eh_2]
+root         142  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-scsi_tmf_2]
+root         192  0.0  0.0      0     0 ?        S    21:55   0:00 [jbd2/sda2-8]
+root         193  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-ext4-rsv-conversion]
+root         241  0.0  0.4  59144 12424 ?        S<s  21:55   0:00 /usr/lib/systemd/systemd-journald
+root         294  0.0  0.0      0     0 ?        S    21:55   0:00 [irq/18-vmwgfx]
+root         295  0.0  0.0      0     0 ?        I<   21:55   0:00 [kworker/R-ttm]
+root         314  0.0  0.1  30704  5492 ?        Ss   21:55   0:00 /usr/lib/systemd/systemd-udevd
+systemd+     389  0.0  0.1  17712  5436 ?        Ss   21:55   0:01 /usr/lib/systemd/systemd-oomd
+systemd+     393  0.0  0.2  21716  6988 ?        Ss   21:55   0:00 /usr/lib/systemd/systemd-resolved
+root         405  0.0  0.0      0     0 ?        S    21:55   0:00 [psimon]
+systemd+     796  0.0  0.1  91060  5544 ?        Ssl  21:55   0:00 /usr/lib/systemd/systemd-timesyncd
+avahi        814  0.0  0.1   8680  4124 ?        Ss   21:55   0:00 avahi-daemon: running [korzhina.local]
+message+     815  0.0  0.2  12228  6568 ?        Ss   21:55   0:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+     818  0.0  0.4 512824 13316 ?        Ssl  21:55   0:00 /usr/libexec/gnome-remote-desktop-daemon --system
+polkitd      834  0.0  0.3 326756 11832 ?        Ssl  21:55   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         835  0.0  0.2 322552  6964 ?        Ssl  21:55   0:00 /usr/libexec/power-profiles-daemon
+root         838  0.0  0.5 1849488 16280 ?       Ssl  21:55   0:01 /usr/lib/snapd/snapd
+root         840  0.0  0.2 322368  7804 ?        Ssl  21:55   0:00 /usr/libexec/accounts-daemon
+root         841  0.0  0.0  18100  2684 ?        Ss   21:55   0:00 /usr/sbin/cron -f -P
+root         842  0.0  0.2 318684  6864 ?        Ssl  21:55   0:00 /usr/libexec/switcheroo-control
+root         844  0.0  0.2  18164  6448 ?        Ss   21:55   0:00 /usr/lib/systemd/systemd-logind
+root         845  0.0  0.3 469364  9676 ?        Ssl  21:55   0:00 /usr/libexec/udisks2/udisksd
+avahi        849  0.0  0.0   8488  1064 ?        S    21:55   0:00 avahi-daemon: chroot helper
+syslog       853  0.0  0.1 222572  4524 ?        Ssl  21:55   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         978  0.0  0.4 346088 14460 ?        Ssl  21:56   0:00 /usr/sbin/NetworkManager --no-daemon
+root         983  0.0  0.1  17392  4156 ?        Ss   21:56   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root        1038  0.0  0.2 392108  6916 ?        Ssl  21:56   0:00 /usr/sbin/ModemManager
+root        1393  0.0  0.3  46764  9224 ?        Ss   21:56   0:00 /usr/sbin/cupsd -l
+root        1401  0.0  0.3 120932  9132 ?        Ssl  21:56   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+kernoops    1461  0.0  0.0  12752  1896 ?        Ss   21:56   0:00 /usr/sbin/kerneloops --test
+kernoops    1464  0.0  0.0  12752  2164 ?        Ss   21:56   0:00 /usr/sbin/kerneloops
+lp          1466  0.0  0.1  16844  5988 ?        S    21:56   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp          1468  0.0  0.1  16844  5984 ?        S    21:56   0:00 /usr/lib/cups/notifier/dbus dbus://
+cups-br+    1469  0.0  0.5 268500 16644 ?        Ssl  21:56   0:00 /usr/sbin/cups-browsed
+root        1959  0.0  0.0 284004  2128 ?        Sl   21:56   0:01 /usr/bin/VBoxDRMClient
+root        1962  0.0  0.1 355696  3080 ?        Sl   21:56   0:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root        2408  0.0  0.2 323892  8628 ?        Ssl  21:56   0:00 /usr/sbin/gdm3
+root        2421  0.0  0.0      0     0 ?        S    21:56   0:00 [psimon]
+rtkit       2460  0.0  0.1  22948  3356 ?        SNsl 21:56   0:00 /usr/libexec/rtkit-daemon
+colord      2549  0.0  0.3 329128  9276 ?        Ssl  21:57   0:00 /usr/libexec/colord
+root        2595  0.0  0.2 325956  8316 ?        Ssl  21:57   0:00 /usr/libexec/upowerd
+root        2868  0.0  0.3 399160 10028 ?        Sl   21:57   0:00 gdm-session-worker [pam/gdm-password]
+valery      2908  0.0  0.2  21160  9072 ?        Ss   21:57   0:00 /usr/lib/systemd/systemd --user
+valery      2914  0.0  0.0  21472  1704 ?        S    21:57   0:00 (sd-pam)
+valery      2930  0.0  0.2 124860  8216 ?        S<sl 21:57   0:00 /usr/bin/pipewire
+valery      2931  0.0  0.1 106412  4632 ?        Ssl  21:57   0:00 /usr/bin/pipewire -c filter-chain.conf
+valery      2933  0.0  0.3 416016 11676 ?        S<sl 21:57   0:00 /usr/bin/wireplumber
+valery      2934  0.0  0.3 125612 11632 ?        S<sl 21:57   0:00 /usr/bin/pipewire-pulse
+valery      2935  0.0  0.2 325576  8780 ?        SLsl 21:57   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+valery      2940  0.0  0.2  11068  6296 ?        Ss   21:57   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+valery      2969  0.0  0.2 767864  7564 ?        Ssl  21:57   0:00 /usr/libexec/xdg-document-portal
+valery      2976  0.0  0.2 318512  6424 ?        Ssl  21:57   0:00 /usr/libexec/xdg-permission-store
+root        2984  0.0  0.0   2712  1948 ?        Ss   21:57   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+valery      3025  0.0  0.2 244768  6296 tty2     Ssl+ 21:57   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+valery      3032  0.0  0.4 307332 12400 tty2     Sl+  21:57   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+valery      3092  0.0  0.2 162660  6220 ?        Ssl  21:57   0:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+valery      3093  0.0  0.1 100224  5524 ?        Ssl  21:57   0:00 /usr/libexec/gnome-session-ctl --monitor
+valery      3104  0.0  0.2 323400  7964 ?        Ssl  21:57   0:00 /usr/libexec/gvfsd
+valery      3115  0.0  0.2 468784  6948 ?        Sl   21:57   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+valery      3118  0.0  0.4 677664 14408 ?        Ssl  21:57   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+valery      3147  0.0  0.2 382948  7384 ?        Sl   21:57   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+valery      3152  8.4  7.1 4051836 216084 ?      Ssl  21:57   4:34 /usr/bin/gnome-shell
+valery      3161  0.0  0.1   9620  4716 ?        S    21:57   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+valery      3210  0.0  0.2 236076  7132 ?        Sl   21:57   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+valery      3226  0.0  0.3 654920 12092 ?        Sl   21:57   0:00 /usr/libexec/gnome-shell-calendar-server
+valery      3239  0.0  0.4 2602172 14132 ?       Sl   21:57   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+valery      3241  0.0  0.2 397920  8520 ?        Ssl  21:57   0:02 /usr/bin/ibus-daemon --panel disable
+valery      3242  0.0  0.2 392688  6732 ?        Ssl  21:57   0:00 /usr/libexec/gsd-a11y-settings
+valery      3247  0.0  0.4 422652 12784 ?        Ssl  21:57   0:00 /usr/libexec/gsd-color
+valery      3250  0.0  0.3 440856 10780 ?        Ssl  21:57   0:00 /usr/libexec/gsd-datetime
+valery      3251  0.0  0.2 467908  7600 ?        Ssl  21:57   0:00 /usr/libexec/gsd-housekeeping
+valery      3254  0.0  0.4 421496 12552 ?        Ssl  21:57   0:00 /usr/libexec/gsd-keyboard
+valery      3255  0.0  0.5 677544 16184 ?        Ssl  21:57   0:00 /usr/libexec/gsd-media-keys
+valery      3256  0.0  0.5 459440 16252 ?        Ssl  21:57   0:00 /usr/libexec/gsd-power
+valery      3261  0.0  0.3 332656 10488 ?        Ssl  21:57   0:00 /usr/libexec/gsd-print-notifications
+valery      3266  0.0  0.2 540252  6644 ?        Ssl  21:57   0:00 /usr/libexec/gsd-rfkill
+valery      3267  0.0  0.2 392184  6144 ?        Ssl  21:57   0:00 /usr/libexec/gsd-screensaver-proxy
+valery      3273  0.0  0.3 552368  9560 ?        Ssl  21:57   0:00 /usr/libexec/gsd-sharing
+valery      3274  0.0  0.2 468720  7364 ?        Ssl  21:57   0:00 /usr/libexec/gsd-smartcard
+valery      3275  0.0  0.2 402804  8492 ?        Ssl  21:57   0:00 /usr/libexec/gsd-sound
+valery      3276  0.0  0.4 496200 12872 ?        Ssl  21:57   0:00 /usr/libexec/gsd-wacom
+valery      3287  0.0  0.1 305632  5996 ?        Sl   21:57   0:00 /usr/libexec/gsd-disk-utility-notify
+valery      3301  0.0  0.7 836200 22752 ?        Sl   21:57   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+valery      3444  0.0  0.4 425132 12368 ?        Sl   21:57   0:00 /usr/libexec/gsd-printer
+valery      3448  0.0  0.5 604432 16244 ?        Ssl  21:57   0:00 /usr/libexec/evolution-source-registry
+valery      3453  0.0  0.2 245720  6872 ?        Sl   21:57   0:00 /usr/libexec/ibus-memconf
+valery      3454  0.0  0.4 431084 14324 ?        Sl   21:57   0:02 /usr/libexec/ibus-extension-gtk3
+valery      3465  0.0  0.0  28612  1152 ?        S    21:57   0:00 /usr/bin/VBoxClient --clipboard
+valery      3466  0.0  0.4 229468 15040 ?        Sl   21:57   0:00 /usr/bin/VBoxClient --clipboard
+valery      3472  0.0  0.2 319316  7012 ?        Sl   21:57   0:00 /usr/libexec/ibus-portal
+valery      3484  0.0  0.3 472176  9428 ?        Ssl  21:57   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+valery      3494  0.0  0.2 398272  7572 ?        Ssl  21:57   0:00 /usr/libexec/gvfs-afc-volume-monitor
+valery      3500  0.0  0.2 318788  6456 ?        Ssl  21:57   0:00 /usr/libexec/gvfs-goa-volume-monitor
+valery      3505  0.0  0.5 555776 17280 ?        Sl   21:57   0:00 /usr/libexec/goa-daemon
+valery      3513  0.0  0.2 471952  8092 ?        Sl   21:57   0:00 /usr/libexec/goa-identity-service
+valery      3514  0.0  0.0  39140    56 ?        Ss   21:57   0:00 /snap/snapd-desktop-integration/343/usr/bin/snapd-desktop-integration
+valery      3558  0.0  0.1 429408  5444 ?        Sl   21:57   0:00 /snap/snapd-desktop-integration/343/usr/bin/snapd-desktop-integration
+valery      3566  0.0  0.2 318656  6492 ?        Ssl  21:57   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+valery      3577  0.0  0.2 319624  6612 ?        Ssl  21:57   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+valery      3590  0.0  0.3 245540  9956 ?        S    21:57   0:01 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.L83ZM3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+valery      3610  0.0  0.2 245844  7408 ?        Sl   21:57   0:00 /usr/libexec/ibus-engine-simple
+valery      3619  0.0  0.5 916292 16212 ?        Ssl  21:57   0:00 /usr/libexec/evolution-calendar-factory
+valery      3651  0.0  0.6 834548 18704 ?        Ssl  21:57   0:00 /usr/libexec/evolution-addressbook-factory
+valery      3663  0.0  0.2 245288  6516 ?        Ssl  21:57   0:00 /usr/libexec/gvfsd-metadata
+valery      3676  0.0  0.1 230248  5852 ?        Ssl  21:57   0:00 /usr/libexec/dconf-service
+valery      3691  0.0  0.6 1022344 19696 ?       SNsl 21:57   0:01 /usr/libexec/tracker-miner-fs-3
+valery      3695  0.0  0.6 2536660 20076 ?       Sl   21:57   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+valery      3723  0.0  0.2 544840  8912 ?        Sl   21:57   0:00 /usr/libexec/gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+valery      3746  0.0  0.6 651912 19828 ?        Ssl  21:57   0:00 /usr/libexec/gsd-xsettings
+valery      3801  0.0  0.3 841864 11836 ?        Ssl  21:57   0:00 /usr/libexec/xdg-desktop-portal
+valery      3810  0.0  0.7 713840 21532 ?        Ssl  21:57   0:00 /usr/libexec/xdg-desktop-portal-gnome
+valery      3830  0.0  0.4 276668 14380 ?        Sl   21:57   0:00 /usr/libexec/ibus-x11
+valery      3836  0.0  0.5 427508 15972 ?        Ssl  21:57   0:00 /usr/libexec/xdg-desktop-portal-gtk
+valery      3845  0.0  0.6 1128524 18352 ?       Sl   21:57   0:00 /usr/libexec/mutter-x11-frames
+valery      3849  0.0  0.0  28612  1080 ?        S    21:57   0:00 /usr/bin/VBoxClient --seamless
+valery      3850  0.0  0.0 226900  2748 ?        Sl   21:57   0:01 /usr/bin/VBoxClient --seamless
+valery      3856  0.0  0.0  28612  1104 ?        S    21:57   0:00 /usr/bin/VBoxClient --draganddrop
+valery      3862  0.2  0.0 227416  2584 ?        Sl   21:57   0:06 /usr/bin/VBoxClient --draganddrop
+valery      3866  0.0  0.0  28612  1108 ?        S    21:57   0:00 /usr/bin/VBoxClient --vmsvga-session
+valery      3870  0.0  0.0 160716  1916 ?        Sl   21:57   0:00 /usr/bin/VBoxClient --vmsvga-session
+valery      4154  0.0  0.3 1766008 11780 ?       Sl   21:57   0:00 /usr/bin/snap userd
+valery      4893  0.0  0.8 578880 26564 ?        Sl   21:58   0:00 /usr/bin/update-notifier
+valery      5668  0.3  2.5 1823020 77756 ?       Sl   22:00   0:10 /usr/bin/nautilus --gapplication-service
+valery      5707  0.0  0.2 323628  8604 ?        Sl   22:00   0:00 /usr/libexec/gvfsd-recent --spawner :1.20 /org/gtk/gvfs/exec_spaw/1
+valery      5854  0.0  0.2 471452  8908 ?        Sl   22:04   0:00 /usr/libexec/gvfsd-network --spawner :1.20 /org/gtk/gvfs/exec_spaw/2
+valery      5864  0.0  0.2 399680  8976 ?        Sl   22:04   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.20 /org/gtk/gvfs/exec_spaw/3
+valery      7482  0.0  0.3 329324  9484 ?        Sl   22:16   0:00 /usr/libexec/gvfsd-http --spawner :1.20 /org/gtk/gvfs/exec_spaw/6
+valery     10248  1.1  4.4 3221808 134120 ?      Sl   22:25   0:17 /snap/firefox/7766/usr/lib/firefox/firefox https://git-scm.com/download/linux
+valery     10298  0.0  0.0 149132   828 ?        Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/crashhelper 10248 9 /tmp/ 11
+root       10349  0.0  0.0      0     0 ?        I    22:25   0:00 [kworker/u9:3-flush-8:0]
+valery     10367  0.0  0.2 434932  7864 ?        S    22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {912444db-d14a-4fb1-bdfa-ce43b78ccfdd} -parentPid 10248 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 1 forkserver
+valery     10373  0.0  0.3 449372 10908 ?        Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -parentBuildID 20260204004611 -prefsHandle 0:34830 -prefMapHandle 1:277051 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {3b61c1f3-f6ce-47ea-b0c4-77fd8fc81646} -parentPid 10248 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7766/usr/lib/firefox/browser 2 socket
+valery     10396  0.1  1.0 2583280 31672 ?       Sl   22:25   0:02 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:31521 -prefMapHandle 1:277051 -jsInitHandle 2:223968 -parentBuildID 20260204004611 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {e808a05b-199b-4c51-9b7f-7766d1777a4b} -parentPid 10248 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 3 tab
+valery     10407  0.0  0.3 582380 11316 ?        Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -parentBuildID 20260204004611 -prefsHandle 0:34937 -prefMapHandle 1:277051 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {1ab5237e-e8f2-4ee9-8e4c-5658c6ee996d} -parentPid 10248 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7766/usr/lib/firefox/browser 4 rdd
+root       10418  0.0  0.0      0     0 ?        I    22:25   0:00 [kworker/u10:0-events_unbound]
+valery     10591  0.0  1.0 2608664 32384 ?       Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:35165 -prefMapHandle 1:277051 -jsInitHandle 2:223968 -parentBuildID 20260204004611 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ed5c6283-dd47-421e-ab77-3a82b59cc630} -parentPid 10248 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 5 tab
+valery     10922  0.0  0.3 448344 11352 ?        Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -parentBuildID 20260204004611 -sandboxingKind 0 -prefsHandle 0:45716 -prefMapHandle 1:277051 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {81a3af24-acca-4daf-a1bd-db13c4834f96} -parentPid 10248 -crashReporter 5 -crashHelper 6 -appDir /snap/firefox/7766/usr/lib/firefox/browser 6 utility
+valery     10930  0.0  0.5 2560304 18092 ?       Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42243 -prefMapHandle 1:277051 -jsInitHandle 2:223968 -parentBuildID 20260204004611 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {59d99396-6948-4289-929a-594c3aa18707} -parentPid 10248 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 7 tab
+valery     11093  0.0  0.5 2561068 18140 ?       Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42243 -prefMapHandle 1:277051 -jsInitHandle 2:223968 -parentBuildID 20260204004611 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {dfbd98b6-8350-4c7d-b003-aa3c676d0116} -parentPid 10248 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 8 tab
+valery     11095  0.0  0.5 2561068 18124 ?       Sl   22:25   0:00 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:42243 -prefMapHandle 1:277051 -jsInitHandle 2:223968 -parentBuildID 20260204004611 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {83c11ba3-fffa-47bc-bdfb-7bfaef533d7d} -parentPid 10248 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 9 tab
+valery     11107  0.1  1.6 2619016 49424 ?       Sl   22:25   0:02 /snap/firefox/7766/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:45716 -prefMapHandle 1:277051 -jsInitHandle 2:223968 -parentBuildID 20260204004611 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {5c6ea6df-bbd0-4fd2-a52d-dd3feb59a780} -parentPid 10248 -crashReporter 6 -crashHelper 7 -greomni /snap/firefox/7766/usr/lib/firefox/omni.ja -appomni /snap/firefox/7766/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/7766/usr/lib/firefox/browser 10 tab
+valery     11407  1.7  6.8 1461823868 207688 ?   SLl  22:29   0:22 /usr/share/code/code
+valery     11414  0.0  1.3 33815164 40868 ?      S    22:29   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+valery     11415  0.0  1.4 50592372 42632 ?      S    22:29   0:00 /usr/share/code/code --type=zygote
+valery     11417  0.0  0.2 50592396 7432 ?       S    22:29   0:00 /usr/share/code/code --type=zygote
+valery     11432  0.0  0.0 33576152 2528 ?       Sl   22:29   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/valery/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=dce57efe-3ebd-47dd-95d1-16182cf20136&iid=dce57efe-3ebd-47dd-95d1-16182cf20136&sid=dce57efe-3ebd-47dd-95d1-16182cf20136 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.114.0 --annotation=lsb-release=Ubuntu 24.04.4 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=39.8.3 --initial-client-fd=47 --shared-client-connection
+valery     11449  3.1  3.8 34192248 117252 ?     Sl   22:30   0:39 /usr/share/code/code --type=zygote --no-zygote-sandbox
+valery     11457  0.0  1.8 33873668 55100 ?      Sl   22:30   0:00 /proc/self/exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=11432 --enable-crash-reporter=2e0e79b1-0b1f-49d3-a164-107a115f7450,no_channel --user-data-dir=/home/valery/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,763723873286810944,11598008900179253339,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --trace-process-track-uuid=3190708989122997041
+valery     11478  7.4 10.7 1479846936 327232 ?   Sl   22:30   1:34 /usr/share/code/code --type=zygote
+valery     11522  0.5  3.8 1461325852 117120 ?   Sl   22:30   0:06 /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --js-flags=--nodecommit_pooled_pages --crashpad-handler-pid=11432 --enable-crash-reporter=2e0e79b1-0b1f-49d3-a164-107a115f7450,no_channel --user-data-dir=/home/valery/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,763723873286810944,11598008900179253339,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --trace-process-track-uuid=3190708991934122588
+valery     11580  0.3  3.2 1461351196 98848 ?    Sl   22:30   0:04 /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --js-flags=--nodecommit_pooled_pages --crashpad-handler-pid=11432 --enable-crash-reporter=2e0e79b1-0b1f-49d3-a164-107a115f7450,no_channel --user-data-dir=/home/valery/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,763723873286810944,11598008900179253339,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --trace-process-track-uuid=3190708993808206286
+root       11799  0.0  0.0      0     0 ?        I    22:30   0:00 [kworker/u10:1-events_power_efficient]
+root       12354  0.0  1.0 489956 32148 ?        Ssl  22:32   0:00 /usr/libexec/fwupd/fwupd
+root       12569  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/u10:2-events_power_efficient]
+root       12591  0.0  0.0      0     0 ?        I    22:37   0:00 [kworker/u10:4-events_power_efficient]
+root       12595  0.0  0.0      0     0 ?        I    22:37   0:00 [kworker/1:0-events]
+valery     12596  0.2  3.0 1461342748 92400 ?    Dl   22:37   0:02 /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --js-flags=--nodecommit_pooled_pages --crashpad-handler-pid=11432 --enable-crash-reporter=2e0e79b1-0b1f-49d3-a164-107a115f7450,no_channel --user-data-dir=/home/valery/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,763723873286810944,11598008900179253339,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --trace-process-track-uuid=3190708994745248135
+valery     12597  1.0  6.5 1461343484 200388 ?   Sl   22:37   0:08 /proc/self/exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --js-flags=--nodecommit_pooled_pages --crashpad-handler-pid=11432 --enable-crash-reporter=2e0e79b1-0b1f-49d3-a164-107a115f7450,no_channel --user-data-dir=/home/valery/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,763723873286810944,11598008900179253339,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --trace-process-track-uuid=3190708995682289984
+valery     12669  0.0  0.1  10372  5080 ?        Sl   22:38   0:00 /home/valery/.vscode/extensions/ms-python.vscode-python-envs-1.26.0-linux-x64/python-env-tools/bin/pet server
+valery     12720  0.0  0.1  20064  5796 pts/0    Ss+  22:38   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+valery     13022  2.8 16.7 1466354540 510892 ?   Sl   22:38   0:21 /usr/share/code/code /home/valery/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/server.bundle.js --cancellationReceive=file:b028a9127e3c4dafa7d4fa747e977101c8bddc4db6 --node-ipc --clientProcessId=12597
+root       13068  0.0  0.0      0     0 ?        I    22:40   0:00 [kworker/0:1]
+root       13146  0.0  0.0      0     0 ?        I    22:45   0:00 [kworker/u9:1-loop1]
+root       13205  0.0  0.0      0     0 ?        I    22:45   0:00 [kworker/1:1-cgroup_free]
+valery     13244  0.1  2.0 2815516 62040 ?       Sl   22:45   0:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+valery     13283  0.0  0.1  20068  5816 pts/1    Ss   22:47   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+root       13347  0.0  0.0      0     0 ?        I    22:48   0:00 [kworker/u10:3-flush-8:0]
+root       13458  0.0  0.0      0     0 ?        I    22:50   0:00 [kworker/u9:4-ext4-rsv-conversion]
+root       13459  0.0  0.0      0     0 ?        I    22:50   0:00 [kworker/u9:5-events_unbound]
+root       13460  0.0  0.0      0     0 ?        I    22:50   0:00 [kworker/u9:6-loop1]
+root       13461  0.0  0.0      0     0 ?        I    22:50   0:00 [kworker/u9:7]
+valery     13481 11.1  0.1  22500  5008 pts/1    R+   22:51   0:00 ps aux
